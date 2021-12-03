@@ -1,0 +1,2 @@
+jar cvmf Webstart/manifest.txt Webstart/pool.jar uk/ac/cf/cs/aspurling/pool/ images/*.png sounds/*.wav
+jarsigner -keystore Webstart/mykeystore -storepass storepass -keypass keypass Webstart/pool.jar Alex

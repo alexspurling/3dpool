@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="D:/Program Files/eclipse/workspace/Pool/Webstart/pool.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/Pool/BuildJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=Pool/&lt;uk.ac.cf.cs.aspurling.pool{Controller.java[Controller" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="true">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=Pool/&lt;images"/>
+<javaElement handleIdentifier="=Pool/&lt;uk.ac.cf.cs.aspurling.pool.menu"/>
+<javaElement handleIdentifier="=Pool/&lt;uk.ac.cf.cs.aspurling.pool.multi"/>
+<javaElement handleIdentifier="=Pool/&lt;uk.ac.cf.cs.aspurling.pool"/>
+<javaElement handleIdentifier="=Pool/&lt;uk.ac.cf.cs.aspurling.pool.util"/>
+<javaElement handleIdentifier="=Pool/&lt;sounds"/>
+</selectedElements>
+</jardesc>
